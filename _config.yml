@@ -1,0 +1,10 @@
+# Abuubakar Masjid (Puistola) – sivun asetukset
+# Ulkoasu, rukousaikojen ja Instagramin haku: https://github.com/suomen-moskeijat/pohja
+title: "Abuubakar Masjid (Puistola)"
+description: "Abuubakar Masjid (Puistola), Maatullinaukio 2, 00750 Helsinki. Rukousajat, tapahtumat ja toiminta."
+moskeija: abuubakar-masjid-puistola     # tiedosto _moskeijat/abuubakar-masjid-puistola.md
+
+# Osoite: https://suomen-moskeijat.github.io/abuubakar-masjid-puistola/
+# Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
+url: "https://suomen-moskeijat.github.io"
+baseurl: "/abuubakar-masjid-puistola"
